@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "352244220264",
+    "project_id": "learn-academy-5048a",
+    "storage_bucket": "learn-academy-5048a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352244220264:android:86f07b21394c07474116dd",
+        "android_client_info": {
+          "package_name": "com.developer.learnacadmy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352244220264-8iagb0fjf8big46eok5j90edtu2giamr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYSWO5Qm0SeUHSKxaOJMKwEjAO6wbHldU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352244220264-8iagb0fjf8big46eok5j90edtu2giamr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Learn Acadmy</string>
+    <string name="facebook_app_id">487335933250586</string>
+    <string name="fb_login_protocol_scheme">90f5312242d6c9d7c38f775b30f9f5c9db56238654f01419f551de6d348c9575</string>
+    <string name="facebook_client_token">36643bad333f27a595df3b7c31eb68a4</string>
+</resources>
+
